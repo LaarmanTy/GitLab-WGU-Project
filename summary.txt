@@ -1,7 +1,0 @@
-For the merge conflict created in part E I edited the branch. I used nano to add the version to the readme file
-to make it merge correctly. 
-
-For part C I made three changes.
-1. I fixed the errors in the team file.
-2. I corrected the closing tag in the services file.
-3. I fixed the spelling error in the about us file.
