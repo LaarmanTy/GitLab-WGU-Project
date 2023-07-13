@@ -1,0 +1,162 @@
+commit 1532ee8e8cd48db66814089b202b0d3b4bdcda44
+Merge: 8a09adb ad02b49
+Author: Tlaarma <tlaarma@wgu.edu>
+Date:   Mon Jun 19 16:05:45 2023 -0400
+
+    Merge branch 'readme'
+
+commit 8a09adb88b8bc818f01f0bd8803cc9491359e292
+Author: Tlaarma <tlaarma@wgu.edu>
+Date:   Mon Jun 19 16:00:54 2023 -0400
+
+    added version to readme file
+
+commit ad02b49225046e004724b6ef0641f653717b8911
+Author: Tlaarma <tlaarma@wgu.edu>
+Date:   Mon Jun 19 13:03:03 2023 -0400
+
+    New branch called readme with student ID
+
+commit 14f7fa9aebcdc8ccc23ec64faa3c26138b44ec4b
+Author: Tlaarma <tlaarma@wgu.edu>
+Date:   Thu Jun 15 15:40:21 2023 -0400
+
+    Fixed spelling error in about us file
+
+commit f8386c4445fb560a8058f418744179c63cc1052b
+Author: Tlaarma <tlaarma@wgu.edu>
+Date:   Thu Jun 15 15:38:54 2023 -0400
+
+    Fixed extra closing tag in services file
+
+commit 9a04053c5e699827394adedf4cafd19e4a53b35d
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:05:49 2023 +0000
+
+    Upload New File
+
+commit c03ea125577c755c0aa1322ceb297adddfc12754
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:05:37 2023 +0000
+
+    Upload New File
+
+commit b57c6244ce3a913d0cbb104465fccf7bff8d25c8
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:05:22 2023 +0000
+
+    Upload New File
+
+commit 8325e5e7abc4424cb481637e947d30de5c7db385
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:05:04 2023 +0000
+
+    Upload New File
+
+commit 0b8f412648157000076ca935bab99bb45b87554a
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:04:55 2023 +0000
+
+    Upload New File
+
+commit 389f9d5b869555bf67a0394da1149173e7ad1c85
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:04:45 2023 +0000
+
+    Upload New File
+
+commit 8468bc5b8c315339a6218de892619e3a8d5b5f18
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:04:31 2023 +0000
+
+    Upload New File
+
+commit d1478457c6e2c03aea779c4c6e1e876ffc4caa29
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:04:02 2023 +0000
+
+    Upload New File
+
+commit 1566ccd59a6db6be372847e112ca0d6b156d3336
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:03:50 2023 +0000
+
+    Upload New File
+
+commit 56735d30c83da91f563514b54b71995e53060095
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:03:34 2023 +0000
+
+    Upload New File
+
+commit 55bb0b80c3bdda09bf4972722a3f7b2864c1f02b
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:03:18 2023 +0000
+
+    Upload New File
+
+commit d6174f1b5f9b972bb10fd840299155fcc2b9d47c
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 19:02:58 2023 +0000
+
+    Upload New File
+
+commit 0ab9798ddc062f2a81a42965cccfd5a25deb9afd
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 18:17:59 2023 +0000
+
+    Upload New File
+
+commit c8ed54408c145204abd7e3d0f8505690e42d635d
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 18:16:47 2023 +0000
+
+    Upload New File
+
+commit 3f4c6c2c2535bf491d001af655886564c83c4f81
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:34:10 2023 +0000
+
+    Upload New File
+
+commit 8ab505bc82d0d99e03c342e7e0de5687a7ca4359
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:33:53 2023 +0000
+
+    Upload New File
+
+commit 9b30b5fb02eeb080fb2bc50884ff53ea8c681dc0
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:33:36 2023 +0000
+
+    Upload New File
+
+commit 7369566e71e6b19ffb9efaa196e0b3dc27fdb7e3
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:33:15 2023 +0000
+
+    Upload New File
+
+commit 03231538e037573b6911af7f493640385006b6b2
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:32:48 2023 +0000
+
+    Upload New File
+
+commit 116c336d79e1280d8aa3ff3f4be6167dcf055988
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:32:32 2023 +0000
+
+    Upload New File
+
+commit a304599bf0adb62198ca0ed8d53de981d68fd6a5
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:32:10 2023 +0000
+
+    Upload New File
+
+commit 331a8fd4c9964b0010e8e685fd81ebb3b4e8e8d2
+Author: Ty Laarman <tlaarma@wgu.edu>
+Date:   Thu Jun 15 17:16:28 2023 +0000
+
+    Initial commit
